@@ -1,4 +1,4 @@
-Ceci est un project personnel créé à partire d'un template.
+I have use Angular 5 and npm for this project. But it's not finish and today i use yarn.
 
 
 # GraineDeMalice
