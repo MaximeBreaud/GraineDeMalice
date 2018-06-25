@@ -1,4 +1,5 @@
-I have use Angular 5 and npm for this project. But it's not finish and today i use yarn.
+I used Angular 5 and npm for this project then used yarn instead of npm.
+This project is progress i.e not yet finished.
 
 
 # GraineDeMalice
